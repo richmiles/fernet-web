@@ -7,7 +7,7 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "declaration": true,
-    "declarationDir": "types",
+    "declarationDir": "dist",
     "sourceMap": false,
     "rootDir": "src",
   },

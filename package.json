@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A library that implements the Fernet algorithm using the Web Crypto API.",
   "main": "dist/index.js",
+  "types":"dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc"
