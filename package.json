@@ -1,0 +1,27 @@
+{
+  "name": "fernet-web",
+  "version": "1.0.0",
+  "description": "A library that implements the Fernet algorithm using the Web Crypto API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richmiles/fernet-web.git"
+  },
+  "keywords": [
+    "fernet",
+    "encryption",
+    "decryption",
+    "web",
+    "crypto",
+    "api"
+  ],
+  "author": "Rich Miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richmiles/fernet-web/issues"
+  },
+  "homepage": "https://github.com/richmiles/fernet-web#readme"
+}
